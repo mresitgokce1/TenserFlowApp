@@ -1,0 +1,1 @@
+İterasyon arttıkça hata payı azalmaktadır ve ekrana verilen hatalı datasetleri görmekteyiz.

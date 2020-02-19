@@ -1,0 +1,1 @@
+İterasyon arttıkça eğitimde artıyor ve doğruluk oranı yükseliyor.
